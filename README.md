@@ -38,4 +38,4 @@ Calcule as raízes da equação x² + 3x – 54 = 0.
 
 ![](https://blog.professorferretto.com.br/wp-content/uploads/2020/03/equacao-do-2-grau-resolvida-4.png)
 
-Portanto, as raízes da equação x² + 3x – 54 = 0 são 9 e –6."
+Portanto, as raízes da equação x² + 3x – 54 = 0 são 9 e –6.
